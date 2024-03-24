@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Do Huynh Nguyen Vu.
+- 👋 Hi, I’m Vu.
 
 <!---
 BWNguyenVu/BWNguyenVu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
