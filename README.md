@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://fb.com/bwnguyenvu.3333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dohuynhnguyenvu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.fiverr.com/bw_nguyenvu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Fiverr_Logo.svg" alt="Fiverr" height="30" width="40" /></a>
+<a href="https://www.fiverr.com/bw_nguyenvu" target="blank"><img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/3/37/Fiverr_Logo.svg](https://freelogopng.com/images/all_img/1656739257fiverr-logo-transparent.png)" alt="Fiverr" height="30" width="40" /></a>
 <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
